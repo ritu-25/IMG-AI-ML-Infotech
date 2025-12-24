@@ -1,0 +1,21 @@
+https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/learn/lecture/44240316#overview
+
+OPTION = 1
+
+1- python -m venv myenv   ==> (env Folder name)
+2. How to activate env 
+   => myenv\Scripts\activate 
+   
+3. pip install numpy 
+4. python --version 
+5. deactivate   ==> (env) 
+
+OPTION = 2
+==>How to install Virtualenv======>
+1. pip install virtualenv
+2. virtualenv -p python3 virtual_env(name of env)
+3. virtual_env\Scripts\activate 
+4. deactivate 
+
+OPTION = 3
+1. conda create -p venv1 python==3.10 -y

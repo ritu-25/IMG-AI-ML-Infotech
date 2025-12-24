@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+ipykernel
+pdf2image
+pytesseract
+pillow
+sentence-transformers
+nltk
